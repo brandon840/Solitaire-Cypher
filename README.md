@@ -1,6 +1,6 @@
 # Solitaire-Cypher
 
-Assignment 2 of the course COMP 250.
+The first assignment for the class COMP 250 at McGill
 
 The program encrypts and decrypts messages using the 52 cards in a stardard deck of playing cards.
 
